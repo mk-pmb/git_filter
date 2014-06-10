@@ -116,4 +116,4 @@ and a space. Lines beginning with a `#` are comment lines and are ignored.
 
 License
 =======
-[GNU GPL v2](COPYING)
+[GNU GPL v2](LICENSE.gpl2.txt)
